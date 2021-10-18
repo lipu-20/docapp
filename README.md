@@ -1,4 +1,4 @@
-# prep
+# DocApp
 
 A new Flutter project.
 
